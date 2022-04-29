@@ -1,4 +1,10 @@
-## Installation
+# Installation
+
+## Firestore Setup
+
+1. TODO
+
+## React Setup
 
 1. Clone repository to a folder: git clone
 2. Change directory to : cd TODO
@@ -16,7 +22,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the game in the development mode.<br />
+Runs the page in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
