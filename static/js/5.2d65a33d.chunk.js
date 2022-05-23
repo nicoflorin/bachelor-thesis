@@ -1,0 +1,2 @@
+(this.webpackJsonpbachelor_thesis=this.webpackJsonpbachelor_thesis||[]).push([[5],{394:function(e,s,a){"use strict";a.r(s),s.default=a.p+"static/media/badge_won_1_game.364e8f1a.png"}}]);
+//# sourceMappingURL=5.2d65a33d.chunk.js.map
