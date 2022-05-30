@@ -1,20 +1,23 @@
 # Installation
 
-## Firestore Setup
-
-1. TODO
-
 ## React Setup
 
-1. Clone repository to a folder: git clone
-2. Change directory to : cd TODO
-3. Create .env File (copy .env.example and rename to .env)
-4. Set a value for every variable in the .env File.
-5. Install npm if not already installed: https://www.npmjs.com/get-npm
-6. Open shell
-7. Navigate to the folder where you cloned the repository
-8. Run command "npm install"
-9. Start react app with command "npm start"
+1. Install git: https://git-scm.com/downloads
+2. Install npm: https://www.npmjs.com/get-npm
+3. Create local directory
+4. Open command prompt (CMD, Terminal)
+5. Change to new directroy: cd <path>
+6. Clone Github repository:<br />
+   git clone https://github.com/nicoflorin/bachelor-thesis.git
+7. Open new directory "bachelor-thesis" in explorer or terminal
+8. Copy and rename file ".env.example" to ".env"
+9. Open ".env" and set every env variable based on your Firebase SDK config values
+10. In command prompt change to new directory "bachelor-thesis"<br /> cd bachelor-thesis
+11. Install application with "npm install"
+12. Start application with "npm start"
+    a. Application runs under http://localhost:3000
+
+For the correct execution of the application, a Google Firebase account with Cloud Firestore database and authentication is required.
 
 ## Available Scripts
 
@@ -27,3 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+# License
+
+It is not allowed to copy, modify or redistribute this code without the explicit permission of the copyright holder.
